@@ -1,9 +1,7 @@
 # Petr-Dudek
-Interests:
-Web development (HTML, CSS, JavaScript, React)
+Web development (HTML, CSS, JavaScript)
 
-Game development (Roblox Studio, Lua, game balancing)
+Game development (Roblox Studio, Unity, game balancing)
 
 Mobile app UI/UX design
 
-AI-powered tools for content creation
